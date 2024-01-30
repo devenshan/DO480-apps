@@ -6,6 +6,7 @@ bases:
 nameSuffix: -emea
 
 resources:
+- route-mng.yaml
 
 images:
  - name: mysql
